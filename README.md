@@ -1,4 +1,4 @@
-# Zepto-Inventory-Management-Using-Sql
+
 # 📦 Zepto Inventory Management Using SQL
 
 A data analysis project simulating real-world e-commerce inventory management using SQL queries, built for my data analyst portfolio.
