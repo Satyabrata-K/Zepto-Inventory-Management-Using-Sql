@@ -67,7 +67,7 @@ The dataset includes information on:
 • Grouped inventory into Low, Medium, and Bulk based on weight.
 
 🔹 **Inventory Weight by Category**
-•"Chocolates & Candies" dominate in total inventory weight — useful for logistics.
+• "Chocolates & Candies" dominate in total inventory weight — useful for logistics.
 
 
 ## 🛠 Tools Used
