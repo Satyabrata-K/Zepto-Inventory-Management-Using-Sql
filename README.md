@@ -60,14 +60,15 @@ The dataset includes information on:
 🔷 **Average Discount by Category**  
 • Identified top 5 categories with highest average discounts — possibly linked to perishable items.
 
-🔷 **Price per Gram Analysis**
+🔷 **Price per Gram Analysis**  
 • Identified best value bulk items over 100g with low price/gram ratio.
 
-🔹 **Weight-Based Categorization**
-• Grouped inventory into Low, Medium, and Bulk based on weight.
+🔷 **Weight-Based Categorization**  
+• Grouped inventory into **Low**, **Medium**, and **Bulk** based on weight.
 
-🔹 **Inventory Weight by Category**
-• "Chocolates & Candies" dominate in total inventory weight — useful for logistics.
+🔷 **Inventory Weight by Category**  
+• "**Chocolates & Candies**" dominate in total inventory weight — useful for logistics.
+
 
 
 ## 🛠 Tools Used
