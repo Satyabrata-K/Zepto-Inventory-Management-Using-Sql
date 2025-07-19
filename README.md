@@ -76,7 +76,7 @@ The dataset includes information on:
 - Excel / CSV for raw data
 - GitHub for version control
 - Data Exploration & EDA via SQL
-- Visualization (optional extension: Tableau/Power BI)
+- Visualization (optional extension: Power BI)
 
 ---
 
@@ -84,7 +84,7 @@ The dataset includes information on:
 
 1. Download the `.sql` and `.csv` files from the repo.
 2. Use your SQL editor (like MySQL Workbench or pgAdmin) to run the queries.
-3. Explore insights and visualize data using Power BI or Tableau.
+3. Explore insights and visualize data using Power BI.
 
 ---
 
@@ -102,7 +102,7 @@ This project demonstrates practical SQL applications for:
 
 ## 🧑‍💼 Author
 
-**Satyabrata Khan **  
+**Satyabrata Khan**  
 *Btech in C.S.E | Aspiring Data Analyst*  
 📧 [6691satyabrata.k@gmail.com](mailto:6691satyabrata.k@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/satyabrata-khan/)
